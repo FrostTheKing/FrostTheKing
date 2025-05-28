@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá meu chamo Fabricio Prado e sou estudante <strong>BackEnd</strong>.<br>
-  Estou cursando o 1º Ano do Ensimo Médio, e pretendo me formar em T.I
+  Estou cursando o 7º Ano do Ensimo Médio, e pretendo me formar em T.I
 </p>
 
 <p align="left">
